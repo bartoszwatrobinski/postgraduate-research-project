@@ -1,9 +1,16 @@
 # [(Dis)agreement detection in social media using Signed Graph Convolutional Network with NER and common noun stance integration](https://drive.google.com/file/d/1_CmrsM4pAPiXD978Eg8mxjxM7kyb32tz/view?usp=sharing)
 
 ## Setup
-* Open terminal: `git clone [git@github.com:bartoszwatrobinski/postgraduate-research-project.git](https://github.com/bartoszwatrobinski/postgraduate-research-project)`
-* Create a new environment [enter custom name instead of <ENV_NAME>] in the root directory of the project through an Anaconda terminal: `conda create -n <ENV_NAME> python3 numpy tqdm` 
-*
+* Move to your desired local folder
+* Open terminal: `git clone https://github.com/bartoszwatrobinski/postgraduate-research-project`
+* Create a new environment `python3 -m venv venv`
+* Activate the environment, on Windows `venv\Scripts\activate`, on Mac `source venv/bin/activate`.
+* Install required dependencies `pip install -r requirements.txt`
+* Install additional resources `python -m spacy download en_core_web_md
+python -m spacy download en_core_web_sm
+python -m nltk.downloader wordnet
+python -m nltk.downloader omw-1.4
+`
 *
 *
 *
