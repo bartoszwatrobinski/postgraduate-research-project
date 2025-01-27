@@ -6,11 +6,13 @@
 * Create a new environment `python3 -m venv venv`
 * Activate the environment, on Windows `venv\Scripts\activate`, on Mac `source venv/bin/activate`.
 * Install required dependencies `pip install -r requirements.txt`
-* Install additional resources `python -m spacy download en_core_web_md
-python -m spacy download en_core_web_sm
-python -m nltk.downloader wordnet
-python -m nltk.downloader omw-1.4
-`
+* Install additional resources:
+  ```bash
+  python -m spacy download en_core_web_md
+  python -m spacy download en_core_web_sm
+  python -m nltk.downloader wordnet
+  python -m nltk.downloader omw-1.4
+
 *
 *
 *
