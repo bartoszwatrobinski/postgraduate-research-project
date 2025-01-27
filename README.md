@@ -74,7 +74,8 @@
 # to run the code please put all directory content in the same directory, open BERT_Training.ipynb, run the resulting code there and run train.py
 
 ## Note
-* This is a postgraduate research project 
+* This is a postgraduate research project by Bartosz Watrobinski under the supervision of Haris Bin Zia at Queen Mary University of London.
+* The associated project description and evaluation can be found [here](https://drive.google.com/file/d/1_CmrsM4pAPiXD978Eg8mxjxM7kyb32tz/view?usp=sharing)
 * In case of any issues please contact Bartosz Watrobinski
 
 
