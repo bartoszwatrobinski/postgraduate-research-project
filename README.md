@@ -50,14 +50,6 @@
     <img width=500px src='/images/11.png'>
 </p>
 
-<p align="center">
-    <img width=500px src='/images/12.png'>
-</p>
-
-<p align="center">
-    <img width=500px src='/images/13.png'>
-</p>
-
 ## The project includes the following files:
 
 * train.py: the code containing necessary function calls to run the model and report the results. Includes novel implementations by project authors as well as original implementation by #Lorge et al. (2024).
