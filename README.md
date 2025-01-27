@@ -12,12 +12,10 @@
   python -m spacy download en_core_web_sm
   python -m nltk.downloader wordnet
   python -m nltk.downloader omw-1.4
+* Open the `BERT_Training.ipynb` file in Jupyter Notebook or your preferred IDE that supports .ipynb files.
+* Execute the `train.py` script
 
-*
-*
-*
-*
-to run the code please put all directory content in the same directory, open BERT_Training.ipynb, run the resulting code there and run train.py
+
 ## Overview
 
 <p align="center">
